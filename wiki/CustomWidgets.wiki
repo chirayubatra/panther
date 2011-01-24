@@ -1,0 +1,5 @@
+= Custom Widgets =
+These GUI elements implement custom components.
+
+== X-Y / Line Plots ==
+Blah Blah Blah
