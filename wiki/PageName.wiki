@@ -1,5 +1,3 @@
-# PANTHER is a Nuclear Reactor Simulator written in MATLAB/Simulink/Python
-
 = Introduction =
 PANTHER is a Nuclear Reactor Simulator written in MATLAB/Simulink/Python written with a grant from ...
 
