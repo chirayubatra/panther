@@ -1,0 +1,18 @@
+= Introduction =
+PANTHER is a Real-Time Nuclear Reactor Simulator written in MATLAB/Simulink/Python written with a grant from ...
+
+= Details =
+
+== Primary Systems ==
+
+=== Reactor Core ===
+
+=== GUI ===
+The GUI ties together all of the distinct components from the rest of the system.
+
+==== GUI Components ====
+* CustomWidgets
+
+== Secondary Systems ==
+
+== Passive Systems ==
