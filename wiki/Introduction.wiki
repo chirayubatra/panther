@@ -3,6 +3,9 @@ PANTHER is a Real-Time Nuclear Reactor Simulator for educational uses. It is dev
 
 It is written in MATLAB, Simulink and Python written with a grant from ...
 
+= TA E-Mail Issue =
+apacella@andrew.cmu.edu
+
 = Details =
 
 == Primary Systems ==
