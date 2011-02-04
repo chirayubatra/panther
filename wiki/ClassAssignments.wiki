@@ -6,15 +6,15 @@
 
 || *Subsystem* || *Symbol* || *Modeler* ||
 || [ReactorCorePhysics Reactor Core Physics] || PRX || Randall ||
-|| Reactor Core Thermal || PRH || Nair ||
-|| Ex-Core Nuclear Instrumentation || PXC || Sebastiani ||
-|| Control Rod Drive || PRD || Sebastiani ||
-|| Reactor Coolant System || PRC || Gray ||
-|| Pressurizer || PPZ || Meikel ||
-|| Reactor Coolant Pumps || PRP || Rivera-Lopez ||
-|| Pressurizer Relief Tank || PRT || Meikel ||
-|| Steam Generator Primary || PSG || Fortune ||
-|| Primary Volume Control || PVC || Rivera-Lopez ||
-|| Plant Control System (partial) || PCS || Samolovitch ||
-|| Plant Protection System (partial) || PPS || Samolovitch ||
-|| Graphics and GUI || -2 || Dickerson, Brinkhus, and Jezak ||
+|| [ReactorCoreThermal Reactor Core Thermal] || PRH || Nair ||
+|| [Ex-CoreNuclearInstrumentation Ex-Core Nuclear Instrumentation] || PXC || Sebastiani ||
+|| [ControlRodDrive Control Rod Drive] || PRD || Sebastiani ||
+|| [ReactorCoolantSystem Reactor Coolant System] || PRC || Gray ||
+|| [Pressurizer Pressurizer] || PPZ || Meikel ||
+|| [ReactorCoolantPumps Reactor Coolant Pumps] || PRP || Rivera-Lopez ||
+|| [PressurizerReliefTank Pressurizer Relief Tank] || PRT || Meikel ||
+|| [SteamGeneratorPrimary Steam Generator Primary] || PSG || Fortune ||
+|| [PrimaryVolumeControl Primary Volume Control] || PVC || Rivera-Lopez ||
+|| [PlantControlSystem Plant Control System (partial)] || PCS || Samolovitch ||
+|| [PlantProtectionSystem Plant Protection System (partial)] || PPS || Samolovitch ||
+|| [GraphicsAndGUI Graphics and GUI] || GUI || Dickerson, Brinkhus, and Jezak ||
