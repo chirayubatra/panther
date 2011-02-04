@@ -1,0 +1,18 @@
+#The table containing the assignments for each subsystem.
+
+= Class Assignments =
+
+|| *Subsystem* || *Symbol* || *Modeler* ||
+|| Reactor Core Physics || PRX || Randall ||
+|| Reactor Core Thermal || PRH || Nair ||
+|| Ex-Core Nuclear Instrumentation || PXC || Sebastiani ||
+|| Control Rod Drive || PRD || Sebastiani ||
+|| Reactor Coolant System || PRC || Gray ||
+|| Pressurizer || PPZ || Meikel ||
+|| Reactor Coolant Pumps || PRP || Rivera-Lopez ||
+|| Pressurizer Relief Tank || PRT || Meikel ||
+|| Steam Generator Primary || PSG || Fortune ||
+|| Primary Volume Control || PVC || Rivera-Lopez ||
+|| Plant Control System (partial) || PCS || Samolovitch ||
+|| Plant Protection System (partial) || PPS || Samolovitch ||
+|| Graphics and GUI || -2 || Dickerson, Brinkhus, and Jezak ||
