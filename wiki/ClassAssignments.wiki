@@ -7,7 +7,7 @@
 || *Subsystem* || *Symbol* || *Modeler* ||
 || [ReactorCorePhysics Reactor Core Physics] || PRX || Randall ||
 || [ReactorCoreThermal Reactor Core Thermal] || PRH || Nair ||
-|| [Ex-CoreNuclearInstrumentation Ex-Core Nuclear Instrumentation] || PXC || Sebastiani ||
+|| [ExCoreNuclearInstrumentation Ex-Core Nuclear Instrumentation] || PXC || Sebastiani ||
 || [ControlRodDrive Control Rod Drive] || PRD || Sebastiani ||
 || [ReactorCoolantSystem Reactor Coolant System] || PRC || Gray ||
 || [Pressurizer Pressurizer] || PPZ || Meikel ||
