@@ -5,7 +5,7 @@
 = Class Assignments =
 
 || *Subsystem* || *Symbol* || *Modeler* ||
-|| [Reactor Core Physics] || PRX || Randall ||
+|| [ReactorCorePhysics Reactor Core Physics] || PRX || Randall ||
 || Reactor Core Thermal || PRH || Nair ||
 || Ex-Core Nuclear Instrumentation || PXC || Sebastiani ||
 || Control Rod Drive || PRD || Sebastiani ||
