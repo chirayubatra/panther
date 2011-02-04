@@ -1,4 +1,6 @@
-#summary The table containing the assignments for each subsystem.
+#summary Table containing the assignments for each subsystem.
+
+
 
 = Class Assignments =
 
