@@ -18,3 +18,4 @@
 || [PlantControlSystem Plant Control System (partial)] || PCS || Samolovitch ||
 || [PlantProtectionSystem Plant Protection System (partial)] || PPS || Samolovitch ||
 || [GraphicsAndGUI Graphics and GUI] || GUI || Dickerson, Brinkhus, and Jezak ||
+|| [Integration] || INT || Dickerson, Brinkhus, and Jezak ||
