@@ -12,4 +12,13 @@
 
 
 == Notes ==
-  * 
+ 
+
+== Screens ==
+* Core
+* RCS
+* PZR
+* Control Systems
+* S/G
+* Alarms
+* Status
