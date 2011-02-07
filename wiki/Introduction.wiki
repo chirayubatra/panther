@@ -9,17 +9,3 @@ apacella@andrew.cmu.edu
 = Details =
 Fixed time step of 0.25 sec
 Forward Euler (ode1)
-
-== Primary Systems ==
-
-=== Reactor Core ===
-
-=== GUI ===
-The GUI ties together all of the distinct components from the rest of the system.
-
-==== GUI Components ====
-* CustomWidgets
-
-== Secondary Systems ==
-
-== Passive Systems ==
