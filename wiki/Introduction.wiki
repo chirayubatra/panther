@@ -7,5 +7,6 @@ It is written in MATLAB, Simulink written with a grant from the U.S. Nuclear Reg
 apacella@andrew.cmu.edu
 
 = Details =
-Fixed time step of 0.25 sec
-Forward Euler (ode1)
+  * Fixed time step of 0.25 sec
+  * Forward Euler (ode1)
+  * MKS units
