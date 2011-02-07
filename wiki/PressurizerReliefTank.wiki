@@ -1,5 +1,5 @@
 = Pressurizer Relief Tank =
-====Modeler(s): Meikel====
+====Modeler(s): Meikle====
 ====Symbol: PRT====
 
 Introduce your system here.
