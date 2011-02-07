@@ -10,7 +10,7 @@ This page is for all the material related to the the Pressurizer (PPZ) and Press
 == Documentation ==
   * Specification Document [http://code.google.com/p/panther/downloads/detail?name=ME2120%20PPZ%20and%20PRT%20Modeling%20Update%20-%202-7-2011.pptx&can=2&q= Status Report Presentation]
 
-
+[http://code.google.com/p/panther/downloads/detail?name=PPZ%20and%20PRT%20System%20Worksheets.xlsx&can=2&q= Inputs and Outputs Worksheet]
 
 
 == Matlab Files ==
