@@ -6,6 +6,7 @@
  
  
 == Presentations ==
+ * [http://code.google.com/p/panther/downloads/detail?name=UI.ppt&can=2&q= User Interface Design Guidelines]
   * Description (Upload Here)
 
 
