@@ -8,7 +8,7 @@
 == Presentations ==
  * [http://code.google.com/p/panther/downloads/detail?name=UI.ppt&can=2&q= User Interface Design Guidelines]
 
-*   [http://code.google.com/p/panther/downloads/detail?name=GUI_Development.pptx&can=2&q= Example Matlab Simulator GUIs]
+* [http://code.google.com/p/panther/downloads/detail?name=GUI_Development.pptx&can=2&q= Example Matlab Simulator GUIs]
 
 == Notes ==
  
