@@ -1,7 +1,0 @@
-#GUI Discussion page
-
-= GUI Discussion Page =
-
-This page will be used to discuss matters pertaining to the development of the GUI
-
-= Details =
