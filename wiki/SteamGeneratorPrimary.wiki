@@ -8,8 +8,7 @@ Introduce your system here.
 
 
 == Documentation ==
-  * Specification Document (Upload Here)
-
+  * [http://code.google.com/p/panther/downloads/detail?name=PSG_IOs_Fortune.docx&can=2&q= Specification Document]
 
 
 
