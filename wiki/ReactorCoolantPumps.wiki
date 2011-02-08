@@ -8,7 +8,7 @@ Introduce your system here.
 
 
 == Documentation ==
-  * Specification Document (Upload Here)
+  * [http://code.google.com/p/panther/downloads/detail?name=Reactor%20Coolant%20Pumps_Scope.pptx&can=2&q=Specification Document]
 
 
 
