@@ -2,7 +2,13 @@
 ====Modeler(s): Fortune====
 ====Symbol: PSG====
 
-Introduce your system here.
+This model will consist of the primary and secondary sides of the steam
+generator (SG).  The boundaries of the primary side model are the hot leg at the SG inlet, the inlet of the RCPs at the SG outlet, and the secondary side of the SG through the tube walls.  
+
+The boundaries of the secondary side model are the primary side through the tube walls and boundary conditions of feedwater flow in and steam 
+flow out.  
+
+Additional details will follow.
 
 
 
