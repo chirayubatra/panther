@@ -10,7 +10,6 @@ Introduce your system here.
 == Documentation ==
   * [http://code.google.com/p/panther/downloads/detail?name=Reactor%20Coolant%20Pumps_Scope.pptx&can=2&q= PRP Specification Document] (Updated 2/7/2011)
 
-  * [http://panther.googlecode.com/files/PPS%20and%20PCS%20Ins%20and%20Outs.pdf George]
 
 
 == Matlab Files ==
