@@ -20,5 +20,4 @@
 || [GraphicsAndGUI Graphics and GUI] || GUI || Dickerson, Brinkhus, and Jezak ||
 || [Integration] || INT || Dickerson, Brinkhus, and Jezak ||
 
-<img src="http://panther.googlecode.com/files/AP_Schematic.jpg" width="304" height="228" /> 
-[|500px]
+<img src="http://panther.googlecode.com/files/AP_Schematic.jpg" width="500" height="500" /> 
