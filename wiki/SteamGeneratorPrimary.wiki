@@ -8,7 +8,7 @@ generator (SG).  The boundaries of the primary side model are the hot leg at the
 The boundaries of the secondary side model are the primary side through the tube walls and boundary conditions of feedwater flow in and steam 
 flow out.  
 
-Additional details will follow.
+Additional details will follow. (Updated 2/7/2011)
 
 
 
