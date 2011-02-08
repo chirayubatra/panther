@@ -26,5 +26,5 @@
 = Example Information for GUI Notes =
  
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-||PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board || Visible ||
+||PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board and PRS || Visible ||
 || 
