@@ -7,11 +7,17 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 
 == Documentation ==
-  * Notes!!!
-
 
 
 
 == Matlab Files ==
   * File Name and Version (Upload Here)
     Comments Here.
+
+
+
+== Table of Subsystem Inputs and Outputs ==
+ 
+|| *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
+|| PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board and PRS || Visible ||
+|| 
