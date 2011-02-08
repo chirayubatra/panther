@@ -21,4 +21,4 @@
 || [Integration] || INT || Dickerson, Brinkhus, and Jezak ||
 
 
-[[http://panther.googlecode.com/files/AP_Schematic.jpg|500px]]
+[http://panther.googlecode.com/files/AP_Schematic.jpg|500px]
