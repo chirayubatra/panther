@@ -10,7 +10,7 @@
  * [http://code.google.com/p/panther/downloads/detail?name=GUI_Development.pptx&can=2&q= Example Matlab Simulator GUIs]
 
 == Notes ==
- 
+ * Focus will be on making an educational tool rather than a 1-to-1 representation of what an operator will see
 
 == Screens ==
   # Core
