@@ -8,7 +8,7 @@ Introduce your system here.
 
 
 == Documentation ==
-  * [http://code.google.com/p/panther/downloads/detail?name=PRC_%28RCS%29_System_Worksheet-2-7_LRF.docx&can=2&q= Specification Document]
+  * [http://code.google.com/p/panther/downloads/detail?name=PRC_%28RCS%29_System_Worksheet-2-7_LRF.docx&can=2&q= PRC Specification Document] (Updated 2/7/2011)
 
 
 
