@@ -63,9 +63,9 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PRT_example || Example Variable Name || Pa || Scalar (1x) || PRT || Control Board, PRS || Visible ||
  
 
-=== Priamry Steam Generator (PSG) ===
+=== Primary Steam Generator (PSG) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PSG_SWI || Secondary Water Inventory || Kgs || Scalar (1x) || PSG || Control Board and Feed Control || Visible ||
+|| PSG_SWI || Secondary Water Inventory || Kgs || Scalar (1x) || PSG || Control Board, Feed Control || Visible ||
 
 
 === Primary Volume Control (PVC) ===
