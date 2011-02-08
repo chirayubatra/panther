@@ -8,8 +8,8 @@ Introduce your system here.
 
 
 == Documentation ==
-  * [http://code.google.com/p/panther/downloads/detail?name=PSG_IOs_Fortune.docx&can=2&q= Specification Document]
-  * [http://code.google.com/p/panther/downloads/detail?name=PSG_D125.pptx&can=2&q= Summary Presentation]
+  * [http://code.google.com/p/panther/downloads/detail?name=PSG_IOs_Fortune.docx&can=2&q= Specification Document] (Updated 2/7/2011)
+  * [http://code.google.com/p/panther/downloads/detail?name=PSG_D125.pptx&can=2&q= Summary Presentation] (Updated 2/7/2011)
 
 
 
