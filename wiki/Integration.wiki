@@ -17,7 +17,13 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 
 == Table of Subsystem Inputs and Outputs ==
- 
+
+=== Primary Presurizer (PPZ) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
 || PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board and PRS || Visible ||
+|| 
+
+=== Steam Generator (SG) ===
+|| *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
+|| SG_SWI || Secondary Water Inventory || Kgs || Scalar (1x) || SG || Control Board and Feed Control || Visible ||
 || 
