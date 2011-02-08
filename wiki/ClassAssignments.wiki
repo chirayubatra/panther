@@ -20,4 +20,4 @@
 || [GraphicsAndGUI Graphics and GUI] || GUI || Dickerson, Brinkhus, and Jezak ||
 || [Integration] || INT || Dickerson, Brinkhus, and Jezak ||
 
-[http://code.google.com/p/panther/downloads/detail?name=AP_Schematic.jpg]
+[http://panther.googlecode.com/files/AP_Schematic.jpg]
