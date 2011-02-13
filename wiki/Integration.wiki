@@ -65,7 +65,19 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Primary Steam Generator (PSG) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PSG_SWI || Secondary Water Inventory || Kgs || Scalar (1x) || PSG || Control Board, Feed Control || Visible ||
+|| PSG_i_Inlet_MassFlow || Mass flow rate of coolant into SG || kg/sec || Scalar (1x) || PRC || PSG || Not visible ||
+|| PSG_i_Inlet_Enthalpy || Enthlapy of coolant into SG || J/kg || Scalar (1x) || PRC || PSG || Not visible ||
+|| PSG_i_Inlet_Temp || Temp of coolant into SG || degC || Scalar (1x) || PRC || PSG || Not visible ||
+|| PSG_i_Outlet_MassFlow || Mass flow rate of coolant from SG to RCPs || kg/sec || Scalar (1x) || PSG || PRP || Not visible ||
+|| PSG_i_Outlet_Enthalpy || Enthalpy of coolant from SG to RCPs || J/kg || Scalar (1x) || PSG || PRP || Not visible ||
+|| PSG_i_Outlet_Temp || Temperature of coolant from SG to RCPs || degC || Scalar (1x) || PSG || PRP || Not visible ||
+|| PSG_i_Makeup_MassFlow || Mass flow rate of makeup flow into SG outlet || kg/sec || Scalar (1x) || Boundary || PSG || Visible ||
+|| PSG_i_Makeup_Enthalpy || Enthalpy of makeup flow || J/kg || Scalar (1x) || Boundary || PSG || Not visible ||
+|| PSG_i_Makeup_Temp || Temp of makeup flow || degC || Scalar (1x) || PSG || SSG || Not visible ||
+|| PSG_i_TubeRupt_MassFlow || Mass flow rate of tube rupture flow (from primary to secondary) || kg/sec || Scalar (1x) || PSG || SSG || Not visible ||
+|| PSG_i_TubeRupt Enthalpy || Enthalpy of tube rupture flow || J/kg || Scalar (1x) || PSG || SSG || Not visible ||
+|| PSG_i_TubeRupt_Temp || Temperature of tube rupture flow || degC || Scalar (1x) || PSG || SSG || Not visible ||
+
 
 
 === Primary Volume Control (PVC) ===
