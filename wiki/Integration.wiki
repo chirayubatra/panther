@@ -83,7 +83,7 @@ Secondary Side of the Steam Generator (SSG)
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
 || SSG_i_Steam_MassFlow || Mass flow rate of outlet steam || kg/sec || Scalar (1x) || SSG || Boundary, PPS || Visible ||
 || SSG_i_Steam_Enthalpy || Enthalpy of outlet steam flow || J/kg || Scalar (1x) || SSG || Boundary || Not visible ||
-|| SSG_i_Steam_Temp || Temperature of outlet steam flow || degC || Scalar (1x) SSG || Boundary || Visible ||
+|| SSG_i_Steam_Temp || Temperature of outlet steam flow || degC || Scalar (1x) || SSG || Boundary || Visible ||
 || SSG_i_Steam_Pressure || Steam line pressure || Pa || Scalar (1x) || SSG || Boundary, PPS || Visible ||
 || SSG_i_FW_MassFlow || Feedwater mass flow rate || kg/sec || Scalar (1x) || Boundary || SSG || Visible ||
 || SSG_i_FW_Enthalpy || Feedwater enthalpy || J/kg || Scalar (1x) || Boundary || SSG || Not visible ||
