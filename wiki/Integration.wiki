@@ -51,6 +51,8 @@ This section will contain Matlab models and notes that combine plant subsystems 
 === Primary Presurizer (PPZ) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
 || PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board and PRS || Visible ||
+|| PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || Control Board || Visible ||
+|| PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || Control Board || Visible ||
 
 
 === Reactor Coolant Pumps (PRP) ===
