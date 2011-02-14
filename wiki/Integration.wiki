@@ -50,8 +50,8 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Primary Presurizer (PPZ) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board and PRS || Visible ||
-|| PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || Control Board || Visible ||
+|| PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || PCS & PRS || Visible ||
+|| PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || PCS || Visible ||
 || PPZ_LiqTemp || PPZ LIQUID SPACE TEMP|| DEG C || Scalar (1x) || PPZ || PCS || Visible ||
 || PPZ_SteamTemp || PPZ STEAM SPACE TEMP|| DEG C || Scalar (1x) || PPZ || PCS || Visible ||
 || PPZ_SurgMassFlow || PPZ SURGE LINE MASS FLOW|| KG/S || Scalar (1x) || PRC || PPZ || Visible ||
