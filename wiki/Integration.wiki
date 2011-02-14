@@ -32,8 +32,6 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PRH_Qave || Heat Flux per unit cell || W/m^2|| Matrix (3x) || PRH || UI || Visible ||
 || PRH_Mdot || Core Inlet Coolant Mass Flow Rate || Kg/sec|| Scalar (1x) || PRC || PRH || InVisible ||
 || PRH_Tcold || Core Inlet Coolant temperature|| Celcius|| Scalar (1x) || PRC || PRH || InVisible ||
-|| PRH_density || Average Water density in a cell|| kg/m^3|| Matrix(3x) || PRC || PRH || InVisible ||
-
 
 
 
@@ -63,12 +61,28 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PRC_i_Makeup_Temp || Temperature of makeup flow into SG outlet || Celsius || Scalar (1x) || Boundary || PSG || Not Visible ||
 
 
-=== Primary Presurizer (PPZ) ===
+=== Primary Presurizer (PPZ) ===  
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board and PRS || Visible ||
-|| PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || Control Board || Visible ||
-|| PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || Control Board || Visible ||
-
+|| PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || PCS & PRS || Visible ||
+|| PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || PCS || Visible ||
+|| PPZ_LiqTemp || PPZ LIQUID SPACE TEMP|| DEG C || Scalar (1x) || PPZ || PCS || Visible ||
+|| PPZ_SteamTemp || PPZ STEAM SPACE TEMP|| DEG C || Scalar (1x) || PPZ || PCS || Visible ||
+|| PPZ_SurgMassFlow || PPZ SURGE LINE MASS FLOW|| KG/S || Scalar (1x) || PRC || PPZ || Visible ||
+|| PPZ_Spray_A_MassFlow || PPZ SPRAY LINE A MASS FLOW|| KG/S || Scalar (1x) || PRC || PPZ || Visible ||
+|| PPZ_Spray_B_MassFlow || PPZ SPRAY LINE B MASS FLOW|| KG/S || Scalar (1x) || PRC || PPZ || Visible ||
+|| PPZ_SurgEnthalpy || PPZ SURGE LINE ENTHALPY|| J/KG || Scalar (1x) || PRC || PPZ || Visible ||
+|| PPZ_Spray_A_Enthalpy || PPZ SPRAY LINE A ENTHALPY|| J/KG || Scalar (1x) || PRC || PPZ || NOT Visible ||
+|| PPZ_Spray_B_Enthalpy || PPZ SPRAY LINE B ENTHALPY|| J/KG || Scalar (1x) || PRC || PPZ || NOT Visible ||
+|| PPZ_RV_A_Status || PPZ RELIEF VALVE A STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_RV_B_Status || PPZ RELIEF VALVE B STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_SPV_A_Status || PPZ SPRAY VALVE A STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_SPV_B_Status || PPZ SPRAY VALVE B STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_HTR_A_Status|| PPZ BACKUP HEATER A STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_HTR_B_Status|| PPZ BACKUP HEATER B STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_HTR_C_Status|| PPZ BACKUP HEATER C STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_HTR_D_Status|| PPZ BACKUP HEATER D STATUS|| ON/OFF|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_HTR_CNTRL_Status|| PPT CONTROL HEATER STATUS|| ON/OFF (?)|| Scalar (1x) || PCS || PPZ || Visible ||
+|| PPZ_RV_A_MassFlow || PPZ RELIEF VALVE A MASS FLOW|| KG/S || Scalar (1x) || PPT || PCS || Visible ||  
 
 === Reactor Coolant Pumps (PRP) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
