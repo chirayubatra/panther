@@ -55,8 +55,7 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PRC_j_UPlenum_Outlet_Temp || Temperature of primary coolant out of upper plenum into hot leg j || Celsius || Scalar (1x) || PRC || PRC || Not Visible ||
 || PRC_j_HotLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of hot leg || kg/sec || Scalar (1x) || PRC || PSG || Not Visible ||
 || PRC_j_HotLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of hot leg || J/kg || Scalar (1x) || PRC || PSG || Not Visible ||
-|| PRC_j_HotLeg_Outlet_Temp || Temperature of primary coolant out of hot leg
- || Celsius || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_j_HotLeg_Outlet_Temp || Temperature of primary coolant out of hot leg || Celsius || Scalar (1x) || PRC || PSG || Not Visible ||
 || PRC_i_Makeup_MassFlow || Mass flow rate of makeup flow into SG outlet || kg/sec || Scalar (1x) || Boundary|| PSG || Not Visible ||
 || PRC_i_Makeup_Enthalpy || Enthalpy of makeup flow into SG outlet || J/kg || Scalar (1x) || Boundary || PSG || Not Visible ||
 || PRC_i_Makeup_Temp || Temperature of makeup flow into SG outlet || Celsius || Scalar (1x) || Boundary || PSG || Not Visible ||
