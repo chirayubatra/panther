@@ -59,10 +59,11 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || RCP_1b_Temperature || Bulk Temperature of Cold Leg 1B || deg C || scalar || RCP - Calculated in this System || PRC || Visible - value ||
 || RCP_1b_enthalpy || Bulk Enthalpy  of Cold Leg 1B || J/kg || scalar || RCP - Calculated in this System || PRC || Not Visible ||
 || RCP_2a_status || Status of Pump 2A (ON/OFF) || n/a || scalar || PCS || RCP || Visible - red/green light ||
-|| RCP_2a_mass_flow || Mass Flow Rate of Pump 1B || kg/s || scalar || RCP - Calculated in this System || PRC || Visible - value ||
+|| RCP_2a_mass_flow || Mass Flow Rate of Pump 2A || kg/s || scalar || RCP - Calculated in this System || PRC || Visible - value ||
 || RCP_2a_Temperature || Bulk Temperature of Cold Leg 2A || deg C || scalar || RCP - Calculated in this System || PRC || Visible - value ||
 || RCP_2a_enthalpy || Bulk Enthalpy  of Cold Leg 2A || J/kg || scalar || RCP - Calculated in this System || PRC || Not Visible ||
-|| RCP_2b_status || Status of Pump 2B (ON/OFF) || n/a || scalar || PCS || Mass Flow Rate of Pump 1B || kg/s || scalar || RCP - Calculated in this System || RCP || Visible - value || 
+|| RCP_2b_status || Status of Pump 2B (ON/OFF) || n/a || scalar || PCS || RCP || Visible - red/green light ||
+|| RCP_2b_mass_flow || Mass Flow Rate of Pump 2B || kg/s || scalar || RCP - Calculated in this System || PRC || Visible - value ||
 || RCP_2b_Temperature || Bulk Temperature of Cold Leg 2B || deg C || scalar || RCP - Calculated in this System || PRC || Visible - value ||
 || RCP_2b_enthalpy || Bulk Enthalpy  of Cold Leg 2B || J/kg || scalar || RCP - Calculated in this System || PRC || Not Visible ||
 
