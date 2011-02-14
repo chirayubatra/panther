@@ -50,7 +50,8 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Reactor Coolant Pumps (PRP) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRP_example || Example Variable Name || Pa || Scalar (1x) || PRP || Control Board, PRS || Visible ||
+|| RCP_1a_mass_flow || Mass Flow Rate of Pump 1A || kg/s || scalar || RCP - Calculated in this System || PRC || Visible - green/red light for status and value ||
+
  
 
 === Reactor Core Physics (PRX) ===
