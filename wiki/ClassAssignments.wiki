@@ -12,7 +12,6 @@
 || [ReactorCoolantSystem Reactor Coolant System] || PRC || Gray ||
 || [Pressurizer Pressurizer] || PPZ || Meikle ||
 || [ReactorCoolantPumps Reactor Coolant Pumps] || PRP || Rivera-Lopez ||
-|| [PressurizerReliefTank Pressurizer Relief Tank] || PRT || Meikle ||
 || [SteamGeneratorPrimary Steam Generator Primary] || PSG || Fortune ||
 || [PrimaryVolumeControl Primary Volume Control] || PVC || Rivera-Lopez ||
 || [PlantControlSystem Plant Control System (partial)] || PCS || Samolovitch ||
