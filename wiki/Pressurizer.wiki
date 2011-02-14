@@ -2,8 +2,7 @@
 ====Modeler(s): Meikle====
 ====Symbol: PPZ====
 
-This page is for all the material related to the the Pressurizer (PPZ) and Pressurizer Relief Tank (PRT).
-
+This page is for all the material related to the the Pressurizer (PPZ).
 
 
 
