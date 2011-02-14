@@ -1,8 +1,8 @@
 #summary PANTHER Welcome Page
 = Welcome to PANTHER =
 === <u>P</u>itt <u>A</u>dvanced <u>N</u>uclear <u>T</u>raining for <u>H</u>igher <u>E</u>ducation <u>R</u>eactor (Desktop Simulation System) ===
-
-
+ 
+ 
 == Introduction ==
 PANTHER is a Real-Time Nuclear Reactor Simulator for educational uses. It is developed with the goal of producing consistent results, but is not intended to be an engineering simulation.
 
