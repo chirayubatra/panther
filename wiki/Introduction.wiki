@@ -10,7 +10,7 @@ apacella@andrew.cmu.edu
 Class assignments and links to subsystem pages can be found [ClassAssignments here].
 
 = Minutes =
-  * [asdf Class Minutes from 2/7/2011]
+  * [http://code.google.com/p/panther/downloads/detail?name=ClassMinutes_02_07_2011.docx&can=2&q= Class Minutes from 2/7/2011]
 
 = Details =
   * Fixed time step of 0.25 sec
