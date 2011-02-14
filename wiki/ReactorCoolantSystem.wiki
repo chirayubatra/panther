@@ -9,7 +9,7 @@ Introduce your system here.
 
 == Documentation ==
   * [http://code.google.com/p/panther/downloads/detail?name=PRC_%28RCS%29_System_Worksheet-2-7_LRF.docx&can=2&q= PRC Specification Document] (Updated 2/7/2011)
-*[http://code.google.com/p/panther/downloads/detail?name=PRC_02-13-11-start.pptx&can=2&q= prc ppt and gui comments] (Updated 2/14/2011)
+  *[http://code.google.com/p/panther/downloads/detail?name=PRC_02-13-11-start.pptx&can=2&q= prc ppt and gui comments] (Updated 2/14/2011)
 
 
 
