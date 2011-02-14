@@ -48,7 +48,7 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || Control Board and PRS || Visible ||
 
 
-=== Reactor Coolant Pumps (PRP) ===
+=== Reactor Coolant Pumps (RCP) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
 || RCP_1a_status || Status of Pump 1A (ON/OFF) || n/a || scalar || PCS || RCP || Visible - red/green light ||
 || RCP_1a_mass_flow || Mass Flow Rate of Pump 1A || kg/s || scalar || RCP - Calculated in this System || PRC || Visible - value ||
