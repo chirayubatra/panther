@@ -127,7 +127,7 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PSG_i_Makeup_Enthalpy || Enthalpy of makeup flow || J/kg || Scalar (1x) || Boundary || PSG || Not visible ||
 || PSG_i_Makeup_Temp || Temp of makeup flow || degC || Scalar (1x) || PSG || SSG || Not visible ||
 || PSG_i_TubeRupt_MassFlow || Mass flow rate of tube rupture flow (from primary to secondary) || kg/sec || Scalar (1x) || PSG || SSG || Not visible ||
-|| PSG_i_TubeRupt Enthalpy || Enthalpy of tube rupture flow || J/kg || Scalar (1x) || PSG || SSG || Not visible ||
+|| PSG_i_TubeRupt_Enthalpy || Enthalpy of tube rupture flow || J/kg || Scalar (1x) || PSG || SSG || Not visible ||
 || PSG_i_TubeRupt_Temp || Temperature of tube rupture flow || degC || Scalar (1x) || PSG || SSG || Not visible ||
 || PSG_i_TubeRupt_Flag || Flag indicating if tube rupture is occurring || Unitless || Scalar (1x) || PSG || Indicator || Visible ||
 
