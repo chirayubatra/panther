@@ -9,7 +9,7 @@ Introduce your system here.
 
 == Documentation ==
   * Specification Document (Upload Here)
-  * [http://panther.googlecode.com/files/Core%20Thermal%20Analysis%20for%20AP1000% = Analysis Procedure]
+  * [http://panther.googlecode.com/files/Core%20Thermal%20Analysis%20for%20AP1000% Analysis Procedure]
 
 
 
