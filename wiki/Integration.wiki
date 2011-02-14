@@ -20,8 +20,10 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Reactor Core Physics (PRX) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRX_example || Temperature distribution || 0C || Scalar (1x) || PRX || Power distribution|| Visible ||
-|| PRX_example || Rod positions || meters || Scalar (1x) || PRX || Neutron flux distribution  || Visible ||
+|| PRX_Flux || Neutron flux distribution || neutrons/m^3 || Array (2x) || PRX || PRH, PXC|| Invisible ||
+|| PRX_P || Power Distribution  || W || Array (2x) || PRX || Power distribution, PRH  || Visible as 3D distribution ||
+|| PRX_T || Temperature distribution || 0C || Array (2x) || PRH || PRX|| Invisible ||
+|| PRX_CR || Control and safety rod positions || meters || Scalar (1x) || PRD || Neutron flux distribution  || Invisible ||
 
 
 === Reactor Core Thermal (PRH) ===
