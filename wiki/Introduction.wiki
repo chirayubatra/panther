@@ -6,6 +6,12 @@ It is written in MATLAB, Simulink written with a grant from the U.S. Nuclear Reg
 = TA E-Mail =
 apacella@andrew.cmu.edu
 
+= Class Assignments =
+Class assignments and links to subsystem pages can be found [ClassAssignments here].
+
+= Minutes =
+  * [asdf Class Minutes from 2/7/2011]
+
 = Details =
   * Fixed time step of 0.25 sec
   * Forward Euler (ode1)
