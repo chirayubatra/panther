@@ -47,7 +47,19 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Reactor Coolant System (PRC) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRC_example || Example Variable Name || Pa || Scalar (1x) || PRC || Control Board, PRS || Visible ||
+|| PRC_i_UPlenum_Inlet_MassFlow || Mass flow rate  of primary coolant into  upper plenum || kg/sec || Scalar (1x) || PRH || PRC || Not Visible ||
+|| PRC_i_UPlenum_Inlet_Enthalpy || Enthalpy of primary coolant into upper plenum || J/kg || Scalar (1x) || PRH || PRC || Not Visible ||
+|| PRC_i_UPlenum_Inlet_Temp || Temperature of primary coolant into upper plenum || Celcius || Scalar (1x) || PRH || PRC || Not Visible ||
+|| PRC_j_UPlenum_Outlet_MassFlow || Mass flow rate  of primary coolant out of upper plenum into hot leg j || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_j_UPlenum_Outlet_Enthalpy || Enthalpy of primary coolant out of upper plenum into hot leg j || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_j_UPlenum_Outlet_Temp || Temperature of primary coolant out of upper plenum into hot leg j || Celcius || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_j_HotLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of hot leg || kg/sec || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_j_HotLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of hot leg || J/kg || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_j_HotLeg_Outlet_Temp || Temperature of primary coolant out of hot leg
+ || Celcius || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_i_Makeup_MassFlow || Mass flow rate of makeup flow into SG outlet || kg/sec || Scalar (1x) || Boundary|| PSG || Not Visible ||
+|| PRC_i_Makeup_Enthalpy || Enthalpy of makeup flow into SG outlet || J/kg || Scalar (1x) || Boundary || PSG || Not Visible ||
+|| PRC_i_Makeup_Temp || Temperature of makeup flow into SG outlet || Celcius || Scalar (1x) || Boundary || PSG || Not Visible ||
 
 
 === Primary Presurizer (PPZ) ===
