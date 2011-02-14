@@ -26,7 +26,8 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Reactor Core Thermal (PRH) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRH_example || Power produced per unit cell || Watts || Scalar (1x) || T_hot || Core outlet desity || Visible ||
+|| PRH_Tave || Coolant Temperature per unit cell || Degree Celcius|| Matrix (3x) || PRH || UI, PRC || Visible ||
+|| PRH_Qave || Heat Flux per unit cell || W/M^2|| Matrix (3x) || PRH || UI || Visible ||
 
 
 === Ex-Core Nuclear Instrumentation (PXC) ===
