@@ -20,13 +20,13 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Reactor Core Physics (PRX) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRX_example || Temperature distribution || Pa || Scalar (1x) || PRX || Power distribution|| Visible ||
-|| PRX_example || Rod positions || Pa || Scalar (1x) || PRX || Neutron flux distribution  || Visible ||
+|| PRX_example || Temperature distribution || 0C || Scalar (1x) || PRX || Power distribution|| Visible ||
+|| PRX_example || Rod positions || meters || Scalar (1x) || PRX || Neutron flux distribution  || Visible ||
 
 
 === Reactor Core Thermal (PRH) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRH_example || Power produced per unit cell || W || Scalar (1x) || T_hot || Core outlet desity || Visible ||
+|| PRH_example || Power produced per unit cell || Watts || Scalar (1x) || T_hot || Core outlet desity || Visible ||
 
 
 === Ex-Core Nuclear Instrumentation (PXC) ===
