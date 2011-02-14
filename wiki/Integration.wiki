@@ -114,6 +114,8 @@ This section will contain Matlab models and notes that combine plant subsystems 
  
 
 === Primary Steam Generator (PSG) ===
+  * Note that i=1,2 for Loop indication
+
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
 || PSG_i_Inlet_MassFlow || Mass flow rate of coolant into SG || kg/sec || Scalar (1x) || PRC || PSG || Not visible ||
 || PSG_i_Inlet_Enthalpy || Enthlapy of coolant into SG || J/kg || Scalar (1x) || PRC || PSG || Not visible ||
