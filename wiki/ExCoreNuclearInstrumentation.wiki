@@ -1,6 +1,6 @@
 = Ex-Core Nuclear Instrumentation =
-====Modeler(s): Sabastiani====
-====Symbol: PRC====
+====Modeler(s): Sebastiani====
+====Symbol: PXC====
 
 Introduce your system here.
 
@@ -8,7 +8,7 @@ Introduce your system here.
 
 
 == Documentation ==
-  * Specification Document (Upload Here)
+  * [http://code.google.com/p/panther/downloads/detail?name=PXC%20Displays%20%28PJS%202-14-2011%29.docx&can=2&q=&sort=-uploaded PXC Graphics Document] (Updated 2/14/2011)
 
 
 == Presentations ==
