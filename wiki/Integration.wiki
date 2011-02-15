@@ -29,6 +29,7 @@ This section will contain Matlab models and notes that combine plant subsystems 
 === Reactor Core Thermal (PRH) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
 || PRH_Tave || Coolant Temperature per unit cell || Degree Celcius|| Matrix (3x) || PRH || UI, PRC || Visible ||
+|| PRH_Tmax || Fuel Centreline Temperature per unit cell || Degree Celcius|| Matrix (3x) || PRH || UI || Visible ||
 || PRH_Qave || Heat Flux per unit cell || W/m^2|| Matrix (3x) || PRH || UI || Visible ||
 || PRH_Mdot || Core Inlet Coolant Mass Flow Rate || Kg/sec|| Scalar (1x) || PRC || PRH || InVisible ||
 || PRH_Tcold || Core Inlet Coolant temperature|| Celcius|| Scalar (1x) || PRC || PRH || InVisible ||
