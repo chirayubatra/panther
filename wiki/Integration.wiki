@@ -39,8 +39,17 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Ex-Core Nuclear Instrumentation (PXC) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PXC_example || Neutron Flux Distribution || Pa || Scalar (1x) || PXC || Control Board, PRS || Visible ||
-
+|| PXC_SR_1 || Source Range Channel 1 Out || counts/sec || Scalar (1x) || PRX || PPS || Visible (meter) ||
+|| PXC_SR_2 || Source Range Channel 2 Out || counts/sec || Scalar (1x) || PRX || PPS || Visible (meter) ||
+|| PXC_IR_1 || Intermediate Range Channel 1 Out || amps || Scalar (1x) || PRX || PPS || Visible (meter) ||
+|| PXC_IR_2 || Intermediate Range Channel 2 Out|| amps || Scalar (1x) || PRX || PPS || Visible (meter) ||
+|| PXC_PR_1 || Power Range Channel 1 out || %RTP || Scalar (1x) || PRX || PPS || Visible (numeric display) ||
+|| PXC_PR_2 || Power Range Channel 2 out || %RTP || Scalar (1x) || PRX || PPS || Visible (numeric display) ||
+|| PXC_PR_3 || Power Range Channel 3 out || %RTP || Scalar (1x) || PRX || PPS || Visible (numeric display) ||
+|| PXC_PR_4 || Power Range Channel 4 out || %RTP || Scalar (1x) || PRX || PPS || Visible (numeric display) ||
+|| PRX_SR_flux || neutron flux near SR detectors || neutrons/(m^2*s) || Array (2x) || PRX || PXC || invisible ||
+|| PRX_IR_flux || neutron flux near IR detectors || neutrons/(m^2*s) || Array (2x) || PRX || PXC || invisible ||
+|| PRX_PR_flux || neutron flux near SR detectors || neutrons/(m^2*s) || Array (2x) || PRX || PXC || invisible ||
 
 === Control Rod Drive (PRD) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
