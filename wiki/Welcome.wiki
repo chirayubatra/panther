@@ -17,6 +17,9 @@ Class assignments and links to subsystem pages can be found [ClassAssignments he
 == Minutes ==
   * [http://code.google.com/p/panther/downloads/detail?name=ClassMinutes_02_07_2011.docx&can=2&q= Class Minutes from 2/7/2011]
 
+== Using The Wiki ==
+  * Find help on using the wiki [UsingTheWiki here].
+
 == Details ==
   * Fixed time step of 0.25 sec
   * Forward Euler (ode1)
