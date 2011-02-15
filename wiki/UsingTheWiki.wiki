@@ -1,0 +1,20 @@
+#summary One-sentence summary of this page.
+
+= Using The Wiki =
+
+Here are some common actions you will need to perform for this course.  If there are other items you would like to see listed here, just email me at jmbrinkhus@gmail.com and I will add them.
+
+
+== Editing a wiki page ==
+To edit a wiki page, follow these instructions:
+  *
+
+== Upload a File ==
+To upload a file, follow these instructions:
+  * 
+
+== Link a File ==
+To link an uploaded file from your wiki page, follow these instructions:
+  *
+
+
