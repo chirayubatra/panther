@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary For help on using the wiki...
 
 = Using The Wiki =
 
@@ -16,5 +16,3 @@ To upload a file, follow these instructions:
 == Link a File ==
 To link an uploaded file from your wiki page, follow these instructions:
   *
-
-
