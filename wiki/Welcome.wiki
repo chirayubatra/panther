@@ -20,7 +20,9 @@ Class assignments and links to subsystem pages can be found [ClassAssignments he
 == Using The Wiki ==
   * Find help on using the wiki [UsingTheWiki here].
 
-== Details ==
+== Notes ==
   * Fixed time step of 0.25 sec
   * Forward Euler (ode1)
   * MKS units
+  * As per Scott's email - Here's a link for downloading the [http://www.mathworks.com/matlabcentral/fileexchange/9817 steam table function XSteam for MATLAB]
+    - To call the function in simulink you need to insert an "embedded MATLAB function" block. The XSteam download comes with documentation describing how to call for the appropriate information.
