@@ -53,8 +53,14 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Control Rod Drive (PRD) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRD_example || Example Variable Name || Pa || Scalar (1x) || PRD || Control Board, PRS || Visible ||
-
+|| PRD_Rod_Speed || Control Rod Movement Speed || steps/min || Scalar (1x) || PRD || PRD, PRX || numeric display ||
+|| PRD_Rod_Move_Direction || Control Rod Movement direction || none || Scalar (1x) || PRD || PRD || display (IN or OUT) ||
+|| PRD_Rod_Move_Lamp || On/Off Lamp for Rod Movement || none || Scalar (1x) || PRD || PRD || display (ON = green light) ||
+|| PRD_Rod_Position || Control Rod Position || steps withdrawn || Scalar (1x) || PRD || PRD, PRX || numeric display ||
+|| PRD_Rod_Control_Scheme || Control Rod Control Scheme || none || Scalar (1x) || PRD || PRD || display (AUTO or Manual) ||
+|| PRC_Tavg || Reactor Coolant System Avg Temp || degC || Scalar (1x) || PRC || PRD || invisible ||
+|| SSG_steam_pressure || impulse pressure to turbine || Pa || Scalar (1x) || SSG || PRD || invisible ||
+|| PXC_PR_1 || Power Range Channel 1 out || %RTP || Scalar (1x) || PXC || PRD || Visible (numeric display) ||
 
 === Reactor Coolant System (PRC) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
