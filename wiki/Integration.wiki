@@ -140,7 +140,7 @@ Secondary Side of the Steam Generator (SSG)
 || SSG_i_FW_MassFlow || Feedwater mass flow rate || kg/sec || Scalar (1x) || Boundary || SSG || Visible ||
 || SSG_i_FW_Enthalpy || Feedwater enthalpy || J/kg || Scalar (1x) || Boundary || SSG || Not visible ||
 || SSG_i_FW_Temp || Feedwater temperature || degC || Scalar (1x) || Boundary || SSG || Not visible ||
-|| SSG_i_WaterLevel || SG Water Level || m || Scalar (1x) || SSG || PCS || Visible ||
+|| SSG_i_WaterLevel || SG Water Level || %NRS,%WRS || Scalar (1x) || SSG || PCS || Visible ||
 || SSG_TurbineTrip || Flag for if turbine trip has occurred || Unitless || Scalar (1x) || PPS || SSG || Visible ||
 || SSG_i_FW_Trip || Flag for if FW pumps have been tripped || Unitless || Scalar (1x) || PPS || SSG || Visible ||
 || SSG_i_Turbine_CVPosition || Throttle valve position for outlet steam flow || % || Scalar (1x) || PCS || SSG || Not visible ||
