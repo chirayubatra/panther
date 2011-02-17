@@ -13,7 +13,7 @@ Introduce your system here.
  * [http://code.google.com/p/panther/downloads/detail?name=GUI%20Preliminary%20Sketches.pptx&can=2&q=]
 
 == Matlab Files ==
-  * PRP model V.0 (*[http://code.google.com/p/panther/downloads/detail?name=PRP_model_V0.mdl&can=2&q=])
+  * *[http://code.google.com/p/panther/downloads/detail?name=PRP_model_V0.mdl&can=2&q= PRP Model V.0]
     Comments Here.
 
   
