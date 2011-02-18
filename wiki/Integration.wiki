@@ -64,32 +64,80 @@ This section will contain Matlab models and notes that combine plant subsystems 
 
 === Reactor Coolant System (PRC) ===
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
-|| PRC_i_UPlenum_Inlet_MassFlow || Mass flow rate  of primary coolant into  upper plenum || kg/sec || Scalar (1x) || PRH || PRC || Not Visible ||
-|| PRC_i_UPlenum_Inlet_Enthalpy || Enthalpy of primary coolant into upper plenum || J/kg || Scalar (1x) || PRH || PRC || Not Visible ||
-|| PRC_i_UPlenum_Inlet_Temp || Temperature of primary coolant into upper plenum || Celsius || Scalar (1x) || PRH || PRC || Not Visible ||
-|| PRC_j_UPlenum_Inlet_Press || Pressure of primary coolant into upper Plenum || Pa || Scalar (1x) || PRH || PRC || Not Visible ||
-|| PRC_j_UPlenum_Outlet_MassFlow || Mass flow rate  of primary coolant out of upper plenum into hot leg j || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
-|| PRC_j_UPlenum_Outlet_Enthalpy || Enthalpy of primary coolant out of upper plenum into hot leg j || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
-|| PRC_j_UPlenum_Outlet_Temp || Temperature of primary coolant out of upper plenum into hot leg j || Celsius || Scalar (1x) || PRC || PRC || Not Visible ||
-|| PRC_j_UPlenum_Outlet_Press || Pressure of primary coolant out of upper Plenum || Pa || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_k_UPlenum_Inlet_MassFlow || Mass flow rate  of primary coolant into  upper plenum || kg/sec || Scalar (1x) || PRH || PRC || Not Visible ||
+|| PRC_k_UPlenum_Inlet_Enthalpy || Enthalpy of primary coolant into upper plenum || J/kg || Scalar (1x) || PRH || PRC || Not Visible ||
+|| PRC_k_UPlenum_Inlet_Temp || Temperature of primary coolant into upper plenum || Celsius || Scalar (1x) || PRH || PRC || Not Visible ||
+|| PRC_k_UPlenum_Inlet_Press || Pressure of primary coolant into upper Plenum || Pa || Scalar (1x) || PRH || PRC || Not Visible ||
+|| PRC_UPlenum_Outlet_MassFlow || Mass flow rate  of primary coolant out of upper plenum into hot leg j || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_UPlenum_Outlet_Enthalpy || Enthalpy of primary coolant out of upper plenum into hot leg j || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_UPlenum_Outlet_Temp || Temperature of primary coolant out of upper plenum into hot leg j || Celsius || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_UPlenum_Outlet_Press || Pressure of primary coolant out of upper Plenum || Pa || Scalar (1x) || PRC || PRC || Not Visible ||
 
-|| PRC_j_HotLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into hot leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
-|| PRC_j_HotLeg_Inlet_Enthalpy || Enthalpy of primary coolant into hot leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
-|| PRC_j_HotLeg_Inlet_Temp || Temperature of primary coolant into hot leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
-|| PRC_j_HotLeg_Inlet_Press || Pressure of primary coolant into hot leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
-|| PRC_j_HotLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of hot leg || kg/sec || Scalar (1x) || PRC || PSG || Not Visible ||
-|| PRC_j_HotLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of hot leg || J/kg || Scalar (1x) || PRC || PSG || Not Visible ||
-|| PRC_j_HotLeg_Outlet_Temp || Temperature of primary coolant out of hot leg || Celsius || Scalar (1x) || PRC || PSG || Not Visible ||
-| PRC_j_HotLeg_Outlet_Press || Pressure of primary coolant out of hot leg || Pa || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_1_HotLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into hot leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_1_HotLeg_Inlet_Enthalpy || Enthalpy of primary coolant into hot leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_1_HotLeg_Inlet_Temp || Temperature of primary coolant into hot leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_1_HotLeg_Inlet_Press || Pressure of primary coolant into hot leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_1_HotLeg_Surgeline_MassFlow || Mass flow rate  of surge flow into hot leg || kg/sec || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1_HotLeg_Surgeline_Enthalpy || Enthalpy of surge flow into hot leg || J/kg || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1_HotLeg_Surgeline_Temp || Temperature of surge flow into hot leg || Celsius || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1_HotLeg_Surgeline_Press || Pressure of surge flow into hot leg || Pa || Scalar (1x) || PRC || PPZ || Not Visible ||
+|| PRC_1_HotLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of hot leg || kg/sec || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_1_HotLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of hot leg || J/kg || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_1_HotLeg_Outlet_Temp || Temperature of primary coolant out of hot leg || Celsius || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_1_HotLeg_Outlet_Press || Pressure of primary coolant out of hot leg || Pa || Scalar (1x) || PRC || PSG || Not Visible ||
 
-|| PRC_j_ColdLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into Cold leg || kg/sec || Scalar (1x) || PRP || PRC || Not Visible ||
-|| PRC_j_ColdLeg_Inlet_Enthalpy || Enthalpy of primary coolant into Cold leg || J/kg || Scalar (1x) || PRP || PRC || Not Visible ||
-|| PRC_j_ColdLeg_Inlet_Temp || Temperature of primary coolant into Cold leg || Celsius || Scalar (1x) || PRP || PRC || Not Visible ||
-|| PRC_j_ColdLeg_Inlet_Press || Pressure of primary coolant into Cold leg || Pa || Scalar (1x) || PRP || PRC || Not Visible ||
-|| PRC_j_ColdLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of Cold leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
-|| PRC_j_ColdLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of Cold leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
-|| PRC_j_ColdLeg_Outlet_Temp || Temperature of primary coolant out of Cold leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
-|| PRC_j_ColdLeg_Outlet_Press || Pressure of primary coolant out of Cold leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_2_HotLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into hot leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_2_HotLeg_Inlet_Enthalpy || Enthalpy of primary coolant into hot leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_2_HotLeg_Inlet_Temp || Temperature of primary coolant into hot leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_2_HotLeg_Inlet_Press || Pressure of primary coolant into hot leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_2_HotLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of hot leg || kg/sec || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_2_HotLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of hot leg || J/kg || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_2_HotLeg_Outlet_Temp || Temperature of primary coolant out of hot leg || Celsius || Scalar (1x) || PRC || PSG || Not Visible ||
+|| PRC_2_HotLeg_Outlet_Press || Pressure of primary coolant out of hot leg || Pa || Scalar (1x) || PRC || PSG || Not Visible ||
+
+|| PRC_1A_ColdLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into Cold leg || kg/sec || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Inlet_Enthalpy || Enthalpy of primary coolant into Cold leg || J/kg || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Inlet_Temp || Temperature of primary coolant into Cold leg || Celsius || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Inlet_Press || Pressure of primary coolant into Cold leg || Pa || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Sprayline_MassFlow || Mass flow rate  of spray flow out of cold leg || kg/sec || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Sprayline_Enthalpy || Enthalpy of spray flow out of cold leg || J/kg || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Sprayline_Temp || Temperature of spray flow out of cold leg || Celsius || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Sprayline_Press || Pressure of spray flow out of cold leg || Pa || Scalar (1x) || PRC || PPZ || Not Visible ||
+|| PRC_1A_ColdLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of Cold leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of Cold leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_1A_ColdLeg_Outlet_Temp || Temperature of primary coolant out of Cold leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_1A_ColdLeg_Outlet_Press || Pressure of primary coolant out of Cold leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
+
+|| PRC_1B_ColdLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into Cold leg || kg/sec || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Inlet_Enthalpy || Enthalpy of primary coolant into Cold leg || J/kg || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Inlet_Temp || Temperature of primary coolant into Cold leg || Celsius || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Inlet_Press || Pressure of primary coolant into Cold leg || Pa || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Sprayline_MassFlow || Mass flow rate  of spray flow out of cold leg || kg/sec || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Sprayline_Enthalpy || Enthalpy of spray flow out of cold leg || J/kg || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Sprayline_Temp || Temperature of spray flow out of cold leg || Celsius || Scalar (1x) || PPZ || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Sprayline_Press || Pressure of spray flow out of cold leg || Pa || Scalar (1x) || PRC || PPZ || Not Visible ||
+|| PRC_1B_ColdLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of Cold leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of Cold leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_1B_ColdLeg_Outlet_Temp || Temperature of primary coolant out of Cold leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_1B_ColdLeg_Outlet_Press || Pressure of primary coolant out of Cold leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
+
+|| PRC_2A_ColdLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into Cold leg || kg/sec || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2A_ColdLeg_Inlet_Enthalpy || Enthalpy of primary coolant into Cold leg || J/kg || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2A_ColdLeg_Inlet_Temp || Temperature of primary coolant into Cold leg || Celsius || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2A_ColdLeg_Inlet_Press || Pressure of primary coolant into Cold leg || Pa || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2A_ColdLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of Cold leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_2A_ColdLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of Cold leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_2A_ColdLeg_Outlet_Temp || Temperature of primary coolant out of Cold leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_2A_ColdLeg_Outlet_Press || Pressure of primary coolant out of Cold leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
+
+|| PRC_2B_ColdLeg_Inlet_MassFlow || Mass flow rate  of primary coolant into Cold leg || kg/sec || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2B_ColdLeg_Inlet_Enthalpy || Enthalpy of primary coolant into Cold leg || J/kg || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2B_ColdLeg_Inlet_Temp || Temperature of primary coolant into Cold leg || Celsius || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2B_ColdLeg_Inlet_Press || Pressure of primary coolant into Cold leg || Pa || Scalar (1x) || PRP || PRC || Not Visible ||
+|| PRC_2B_ColdLeg_Outlet_MassFlow || Mass flow rate  of primary coolant out of Cold leg || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_2B_ColdLeg_Outlet_Enthalpy || Enthalpy of primary coolant out of Cold leg || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
+|| PRC_2B_ColdLeg_Outlet_Temp || Temperature of primary coolant out of Cold leg || Celsius || Scalar (1x) || PRC || PRC || Visible ||
+|| PRC_2B_ColdLeg_Outlet_Press || Pressure of primary coolant out of Cold leg || Pa || Scalar (1x) || PRC || PRC || Visible ||
 
 || PRC_j_Downcomer_Inlet_MassFlow || Mass flow rate  of primary coolant into Downcomer || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
 || PRC_j_Downcomer_Inlet_Enthalpy || Enthalpy of primary coolant into Downcomer || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
@@ -100,7 +148,6 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PRC_j_Downcomer_Outlet_Temp || Temperature of primary coolant out of Downcomer || Celsius || Scalar (1x) || PRC || PRC || Not Visible ||
 || PRC_j_Downcomer_Outlet_Press || Pressure of primary coolant out of Downcomer || Pa || Scalar (1x) || PRC || PRC || Not Visible ||
 
-
 || PRC_i_LoPlenum_Inlet_MassFlow || Mass flow rate  of primary coolant into  lower plenum || kg/sec || Scalar (1x) || PRC || PRC || Not Visible ||
 || PRC_i_LoPlenum_Inlet_Enthalpy || Enthalpy of primary coolant into lower plenum || J/kg || Scalar (1x) || PRC || PRC || Not Visible ||
 || PRC_i_LoPlenum_Inlet_Temp || Temperature of primary coolant into lower plenum || Celsius || Scalar (1x) || PRC || PRC || Not Visible ||
@@ -110,8 +157,7 @@ This section will contain Matlab models and notes that combine plant subsystems 
 || PRC_i_LoPlenum_Outlet_Temp || Temperature of primary coolant out of lower plenum || Celsius || Scalar (1x) || PRC || PRH || Not Visible ||
 || PRC_j_LoPlenum_Outlet_Press || Pressure of primary coolant out of lower plenum || Pa || Scalar (1x) || PRC || PRH || Not Visible ||
 
-
-=== Primary Presurizer (PPZ) ===  
+=== Primary Pressurizer (PPZ) ===  
 || *Variable Name* || *Varible Description* || *Units* || *Dimensionality* || *Source Component* || *Sink Component* || *Display Notes* ||
 || PPZ_Pressure || Rx Pressure || Pa || Scalar (1x) || PPZ || PCS & PRS || Visible ||
 || PPZ_Level || PPT LEVEL|| % || Scalar (1x) || PPZ || PCS || Visible ||
