@@ -25,6 +25,8 @@ Introduce your system here.
 
 [http://code.google.com/p/panther/downloads/detail?name=PRC4_ColdLeg_1A.mdl&can=2&q= PRC4_ColdLeg_1A]
 
+[http://code.google.com/p/panther/downloads/detail?name=PRC5_ColdLeg_1B.mdl&can=2&q= PRC5_ColdLeg_1B.mdl]
+
 
 
 
