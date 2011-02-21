@@ -21,6 +21,8 @@ Introduce your system here.
 
 [http://code.google.com/p/panther/downloads/detail?name=PRC2_HotLeg_1.mdl&can=2&q= PRC2_HotLeg_1.mdl]
 
+[http://code.google.com/p/panther/downloads/detail?name=PRC3_HotLeg_2.mdl&can=2&q= PRC3_HotLeg_2.mdl]
+
 
 
 
