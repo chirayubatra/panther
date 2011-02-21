@@ -22,3 +22,30 @@
   # S/G
   # Alarms
   # Status
+
+==UI Notes 2/18==
+ * Screen Resolution of the machines in class: 1680Wx1050H
+ * Usuable resolution 1680Wx970Hish, 840x820 per view window
+ * Two screens, configurable to any of the available views using a drop down at the top of the screen
+ * Task bar at the top: Load initial conditions, start, stop, play, etc.
+ * Warn + Trip indicator at Bottom of the screen, constant over all screen configurations
+
+=== Screen Views ===
+ * Main System: Levels, flows, gauges, etc on main map
+   # PPZ
+   # PRP
+   # PVC
+   # PSG
+   # PRT
+   # PRC
+ * Control Rods: Control rod control and animation
+   # PRD
+ * Instrumentation: Graphs, Bar Charts, etc.
+   # PXC
+   # PRH
+ * Core Model: 3D Core Model
+   # PRX
+   # PRH
+ * Warning and informational Log:
+   # PXC(?)
+
