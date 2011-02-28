@@ -16,5 +16,4 @@ Introduce your system here.
 
 
 == Matlab Files ==
-  * File Name and Version (Upload Here)
-    Comments Here.
+  * [http://code.google.com/p/panther/downloads/detail?name=PRD_Model_1_AUTO_R1.mdl&can=2&q= PRD_Model_1_AUTO_R1.mdl] (Uploaded 2/21/2011)
