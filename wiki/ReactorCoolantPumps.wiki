@@ -13,6 +13,6 @@ Introduce your system here.
  * [http://code.google.com/p/panther/downloads/detail?name=GUI%20Preliminary%20Sketches.pptx&can=2&q= GUI Preliminary Sketches]
 
 == Matlab Files ==
-  * *[http://code.google.com/p/panther/downloads/detail?name=PRP_model_V0.mdl&can=2&q= PRP Model V.0]
+  * [http://code.google.com/p/panther/downloads/detail?name=PRP_model_V0.mdl&can=2&q= PRP Model V.0]
     
-  * * [http://code.google.com/p/panther/downloads/detail?name=Homologous_Curves.m&can=2&q= Homologous Curve Data]
+  * [http://code.google.com/p/panther/downloads/detail?name=Homologous_Curves.m&can=2&q= Homologous Curve Data]
