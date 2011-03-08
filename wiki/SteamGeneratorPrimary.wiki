@@ -1,6 +1,7 @@
 = Steam Generator Primary =
+= Steam Generator Secondary (Simplified) =
 ====Modeler(s): Fortune====
-====Symbol: PSG====
+====Symbols: PSG, SSG====
 
 This model will consist of the primary and secondary sides of the steam
 generator (SG).  The boundaries of the primary side model are the hot leg at the SG inlet, the inlet of the RCPs at the SG outlet, and the secondary side of the SG through the tube walls.  
@@ -21,3 +22,4 @@ Additional details will follow. (Updated 2/7/2011)
 
 == Matlab Files ==
   * [http://code.google.com/p/panther/downloads/detail?name=PSG_va.mdl&can=2&q= Draft framework of PSG] (Updated 02/28/2011)
+  * [http://code.google.com/p/panther/downloads/detail?name=SSG_va.mdl&can=2&q= Draft framework of SSG] (Updated 03/07/2011)
