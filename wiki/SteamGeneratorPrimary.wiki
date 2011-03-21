@@ -26,9 +26,9 @@ Additional details will follow. (Updated 2/7/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=PSG_va.mdl&can=2&q= Draft framework of PSG] (Updated 02/28/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=SSG_va.mdl&can=2&q= Draft framework of SSG] (Updated 03/07/2011)
 
-  * [http://code.google.com/p/panther/downloads/detail?name=PSG_vb.mdl&can=2&q= PSG Version 0b]
+  * [http://code.google.com/p/panther/downloads/detail?name=PSG_vb.mdl&can=2&q= PSG Version 0b] (Updated 03/21/2011)
     * This version of the model represents the shift to using Simscape.
     * Dummy blocks are inserted for the PSG Simscape blocks.
 
-  * [http://code.google.com/p/panther/downloads/detail?name=PSG_vb.mdl&can=2&q= SSG Version 0b]
+  * [http://code.google.com/p/panther/downloads/detail?name=PSG_vb.mdl&can=2&q= SSG Version 0b] (Updated 03/21/2011)
     * Updated secondary model.  Still needs to resolve steam table issues.
