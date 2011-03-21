@@ -22,7 +22,7 @@
 </wiki:comment>
 
 == Screen Dimensions ==
- * Screen Resolution: 1366x784 (Perhaps 1280x720? 720p)
+ * Screen Resolution: 1280x720 (720p)
 
 === Screen Views ===
  * Main System: Levels, flows, gauges, etc on main map
