@@ -33,5 +33,5 @@ Additional details will follow. (Updated 2/7/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=PSG_vb.mdl&can=2&q= SSG Version 0b] (Updated 03/21/2011)
     * Updated secondary model.  Still needs to resolve steam table issues.
 
-  * [http://code.google.com/p/panther/downloads/detail?name=SSG_vd.mdl&can=2&q= SSG Version 0d] (Updated 04/04/2011)
+  * [http://code.google.com/p/panther/downloads/detail?name=SSG_vd%20-%20Copy.mdl&can=2&q= SSG Version 0d] (Updated 04/04/2011)
     * Nearly complete secondary side model.  Does not include calculation of primary-to-secondary heat transfer, only fed this value.
