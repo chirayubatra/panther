@@ -12,7 +12,7 @@ Introduce your system here.
 
  * [http://code.google.com/p/panther/downloads/detail?name=GUI%20Preliminary%20Sketches.pptx&can=2&q= GUI Preliminary Sketches]
 
-* [http://code.google.com/p/panther/downloads/detail?name=Pump_Model.mdl&can=2&q= Pump Model(not final)]
+ * [http://code.google.com/p/panther/downloads/detail?name=Pump_Model.mdl&can=2&q= Pump Model(not final)]
 == Matlab Files ==
   * [http://code.google.com/p/panther/downloads/detail?name=PRP_model_V0.mdl&can=2&q= PRP Model V.0]
     
