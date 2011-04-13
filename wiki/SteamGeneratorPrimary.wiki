@@ -35,3 +35,6 @@ Additional details will follow. (Updated 2/7/2011)
 
   * [http://code.google.com/p/panther/downloads/detail?name=SSG_vd%20-%20Copy.mdl&can=2&q= SSG Version 0d] (Updated 04/04/2011)
     * Nearly complete secondary side model.  Does not include calculation of primary-to-secondary heat transfer, only fed this value.
+
+  * [http://code.google.com/p/panther/downloads/detail?name=SSG_v0.zip&can=2&q= SSG Version 0] (Updated 04/13/2011)
+    * Completed secondary side model.  This includes a simple primary load follow calculation to allow the secondary model to achieve a test steady state.  The only remaining task is to add a calculation of the 1st stage turbine pressure.
