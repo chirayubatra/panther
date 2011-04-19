@@ -11,9 +11,9 @@ This page is for all the material related to the the Pressurizer (PPZ).
   * [http://code.google.com/p/panther/downloads/detail?name=Updated%20I-O%20PPZ%20Variable%20List.xlsx&can=2&q= PPZ Model I/O Variable List] (Updated 2/14/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=Pressurizer%20GUI%20Screen.docx&can=2&q= Draft PPZ GUI Interface] (Updated 2/14/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=PPZ%20Design%20Basis%20Document.docx&can=2&q= PPZ DBD] (Updated 4/18/2011)
-  * [http://code.google.com/p/panther/downloads/detail?name=pressurizer_surge_TLM_Rev1.mdl&can=2&q= MATLAB model] (Updated 4/18/2011)
-  * [http://code.google.com/p/panther/downloads/detail?name=pressurizer_gain_TLM.m&can=2&q= Required MATLAB Function] (Updated 4/18/2011)
+
 
 == Matlab Files ==
-  * File Name and Version (Upload Here)
-    Comments Here.
+
+  * [http://code.google.com/p/panther/downloads/detail?name=pressurizer_surge_TLM_Rev1.mdl&can=2&q= MATLAB model] (Updated 4/18/2011)
+  * [http://code.google.com/p/panther/downloads/detail?name=pressurizer_gain_TLM.m&can=2&q= Required MATLAB Function] (Updated 4/18/2011)
