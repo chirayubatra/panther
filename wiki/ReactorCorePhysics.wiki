@@ -15,4 +15,4 @@ Introduce your system here.
 
 == Matlab Files ==
   * [http://code.google.com/p/panther/downloads/detail?name=core_init.m&can=2&q= core initializatoin file]
-  *[http://code.google.com/p/panther/downloads/detail?name=PRX.mdl&can=2&q=]
+  * [http://code.google.com/p/panther/downloads/detail?name=PRX.mdl&can=2&q= PRX test file]
