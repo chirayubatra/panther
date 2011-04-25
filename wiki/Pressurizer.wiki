@@ -19,3 +19,4 @@ This page is for all the material related to the the Pressurizer (PPZ).
   * [http://code.google.com/p/panther/downloads/detail?name=pressurizer_gain_TLM.m&can=2&q= Required MATLAB Function] (Updated 4/18/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=Final%20PPZ%20%2B%20PCS%20Model.zip&can=2&q= Final MATLAB Model] (Updated 4/25/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=PPZ%20Physics%20%2B%20Control%20Test%20Model.zip&can=2&q= PPZ + PCS Testing Model] (Updated 4/25/2011)
+  * [http://code.google.com/p/panther/downloads/detail?name=PPZ%20Physics%20Stand-Alone%20Test%20Model.zip&can=2&q= PPZ Physics Testing Model] (Updated 4/25/2011)
