@@ -12,6 +12,12 @@ flow out.
 
 Additional details will follow. (Updated 2/7/2011)
 
+The final SSG model consists of the following: a transient solution of the secondary side vapor mass, fluid mass, and pressure, calcualtion of the primary-to-secondary heat transfer, a feedwater control system based on SG level deviation, a primitive turbine control system, calculation of the SG water level, and calculation of the 1st stage turbine pressure.  
+
+This model can function as a standalone model with a load follow routine based on achieving a steady secondary side pressure, or it can be integrated with the primary system models.
+
+(Updated 04/25/2011)
+
 
 
 
