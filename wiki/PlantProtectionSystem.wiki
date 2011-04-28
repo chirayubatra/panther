@@ -8,7 +8,7 @@ Introduce your system here.
 
 
 == Documentation ==
-  * Specification Document (Upload Here)
+  [http://code.google.com/p/panther/downloads/detail?name=PPS_Design_Basis_Document_final_updated%204.27.11.docx&can=2&q=#makechanges] (Updated 4/27/11)
 
 
 
