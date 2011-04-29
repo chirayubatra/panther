@@ -29,7 +29,7 @@ This model can function as a standalone model with a load follow routine based o
   * [http://code.google.com/p/panther/downloads/detail?name=PSG_SSG_revised_03-15-11.docx&can=2&q= Revised description, specification, IO's, and system diagrams] (Updated 03/15/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=SSG_Design_Basis_Document_Final.docx&can=2&q= Final SSG Design Basis Document] (Updated 04/25/2011)
   * ====[http://code.google.com/p/panther/downloads/detail?name=SSG_Design_Basis_Document_Revised.pdf&can=2&q= Revised SSG Design Basis Document] (Updated 04/29/2011)====
-  * ====[http://code.google.com/p/panther/downloads/detail?name=SSG_Design_Basis_Document_Revised.docx&can=2&q= Word version of SSG DBD]
+  * ====[http://code.google.com/p/panther/downloads/detail?name=SSG_Design_Basis_Document_Revised.docx&can=2&q= Word version of SSG DBD]====
 
 
 
