@@ -17,3 +17,7 @@ Introduce your system here.
 
 == Matlab Files ==
   * [http://code.google.com/p/panther/downloads/detail?name=PRD_Model_1_AUTO_R1.mdl&can=2&q= PRD_Model_1_AUTO_R1.mdl] (Uploaded 2/21/2011)
+
+http://panther.googlecode.com/files/PRD%20Model.zip
+
+* [http://panther.googlecode.com/files/PRD%20Model.zip] (Uploaded 5/18/2011)
