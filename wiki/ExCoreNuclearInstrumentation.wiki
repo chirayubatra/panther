@@ -19,3 +19,5 @@ Introduce your system here.
   * [http://code.google.com/p/panther/downloads/detail?name=PXC_Model_1_SR.mdl&can=2&q= PXC_Model_1_SR.mdl] (Uploaded 2/21/20110
   * [http://code.google.com/p/panther/downloads/detail?name=PXC_Model_2_IR.mdl&can=2&q= PXC_Model_2_IR.mdl] (Uploaded 2/21/2011)
   * [http://code.google.com/p/panther/downloads/detail?name=PXC_Model_3_PR.mdl&can=2&q= PXC_Model_3_PR.mdl] (Uploaded 2/21/2011)
+
+*[http://code.google.com/p/panther/downloads/detail?name=PXC_testbench.zip&can=2&q= PXC_testbench.zip] (Uploaded 5/18/2011)
